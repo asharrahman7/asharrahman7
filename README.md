@@ -4,12 +4,14 @@
   I help computers make decisions, often better ones than I make before coffee. I’m a recent Data Science Master’s graduate with distinction.
 </h3>
 
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding robot" />
+
 - 🔭 I'm currently working on **developing my skills around LLMs**
 
 - 🌱 I'm currently learning **Langchain and Azure.**
 
 - 🤝 I'm looking for help with **learning system design**
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding robot" />
+
 - 💬 Ask me about **Machine Learning, SQL, Azure AI Foundry and RAG.**
 
 - 📫 How to reach me **asharrahman5555@gmail.com**
