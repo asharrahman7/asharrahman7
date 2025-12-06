@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashar Abdur Rahman</h1>
+# Hi 👋, I'm Ashar Abdur Rahman
 
 ### I help computers make decisions, often better ones than I make before coffee. I’m a recent Data Science Master’s graduate with distinction.
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/asharrahman7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="asharrahman7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashar-abdur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashar-abdur-rahman/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashar-abdur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashar-abdur-rahman/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
