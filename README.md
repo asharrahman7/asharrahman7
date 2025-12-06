@@ -1,4 +1,4 @@
-                                                                                              # Hi 👋, I'm Ashar Abdur Rahman
+# Hi 👋, I'm Ashar Abdur Rahman
 
 ### I help computers make decisions, often better ones than I make before coffee. I’m a recent Data Science Master’s graduate with distinction.
 
