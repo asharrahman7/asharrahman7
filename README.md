@@ -1,60 +1,23 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Ashar+Abdur+Rahman;Data+Science+Master's+Graduate;Building+LLMs+and+RAG+Systems;Azure+%26+Cloud+Enthusiast" alt="Typing SVG" />
-</div>
+# Hi 👋, I'm Ashar Abdur Rahman
 
-<div align="center">
-  
-  <a href="https://github.com/asharrahman7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashar-abdur-rahman/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:asharrahman5555@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
-<br />
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 👨‍💻 About Me
-
-I help computers make decisions, often better ones than I make before coffee ☕. 
-I’m a recent **Data Science Master’s graduate with distinction**.
+### I help computers make decisions, often better ones than I make before coffee. I’m a recent Data Science Master’s graduate with distinction.
 
 - 🔭 I'm currently working on **developing my skills around LLMs**
-- 🌱 I'm currently learning **Langchain and Azure**
+
+- 🌱 I'm currently learning **Langchain and Azure.**
+
 - 🤝 I'm looking for help with **learning system design**
-- 💬 Ask me about **Machine Learning, SQL, Azure AI Foundry and RAG**
 
-</td>
-<td width="45%" valign="top">
+- 💬 Ask me about **Machine Learning, SQL, Azure AI Foundry and RAG.**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asharrahman7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashar's Github Stats" />
-</div>
+- 📫 How to reach me **asharrahman5555@gmail.com**
 
-</td>
-</tr>
-</table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/asharrahman7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="asharrahman7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashar-abdur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashar-abdur-rahman/" height="30" width="40" /></a>
+</p>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,azure,git,linux,bash&theme=dark" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,jupyter&theme=dark" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharrahman7&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
