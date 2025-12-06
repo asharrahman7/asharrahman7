@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashar Abdur Rahman</h1>
 
-<p align="center">
+<h2 align="center">
   I help computers make decisions, often better ones than I make before coffee. I’m a recent Data Science Master’s graduate with distinction.
-</p>
+</h2>
 
 - 🔭 I'm currently working on **developing my skills around LLMs**
 
