@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashar Abdur Rahman</h1>
 
 <h3 align="center">
-  I help computers make decisions, often better ones than I make before coffee. I’m a recent Data Science Master’s graduate with distinction.
+  I help computers make decisions, often better ones than I make before coffee. I’m a recent Data Science Master’s graduate with Distinction.
 </h3>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding robot" />
