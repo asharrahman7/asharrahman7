@@ -4,7 +4,7 @@
   I help computers make decisions, often better ones than I make before coffee. I’m a recent Data Science Master’s graduate with distinction.
 </h3>
 
-<img align="right" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding robot" />
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding robot" />
 
 - 🔭 I'm currently working on **developing my skills around LLMs**
 
